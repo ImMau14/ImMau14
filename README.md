@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=immau14" alt="immau14" /></a> </p>
 
-- 🌱 I’m currently learning **Backend, Frontend and IA**
+- 🌱 I’m currently learning **Backend, Frontend and AI**
 
 - 💬 Ask me about **Python, C++**
 
