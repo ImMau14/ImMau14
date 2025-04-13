@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mauricio Rodríguez</h1>
+<h1 align="center">Hi, I'm Mauricio Rodríguez</h1>
 <h3 align="center">I am a systems engineering student, passionate about programming, with other hobbies such as drawing, training, and listening to music.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=immau14&label=Profile%20views&color=6bdb0f&style=flat" alt="immau14" /> </p>
