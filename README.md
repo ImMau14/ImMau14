@@ -1,3 +1,7 @@
+<div align="center">
+  
+![Banner](https://images.hive.blog/DQmXYdegbJtu1GopTXsvFYK6NkogQqrZtXPU94y6934USSv/7demayode2025-ezgif.com-gif-maker.webp)
+</div>
 <h1 align="center">Hi, I'm Mauricio Rodríguez</h1>
 <h3 align="center">I am a systems engineering student, passionate about programming, with other hobbies such as drawing, training, and listening to music.</h3>
 
