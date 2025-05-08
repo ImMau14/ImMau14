@@ -10,7 +10,7 @@
   
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,html,js,md,mysql,php,py,selenium&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,css,html,js,md,mysql,php,py&theme=light)](https://skillicons.dev)
 </div>
 
 <div align="center">
