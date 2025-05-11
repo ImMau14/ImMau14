@@ -10,18 +10,18 @@
 ## 💻 Languages
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=md&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=md&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 </div>
 
 ##  🔧 Tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=au&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=flask&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=au&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=flask&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=selenium&theme=dark)](https://skillicons.dev)
 </div>
 
 ## 📊 Github Stats
 <div align="center">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=immau14" alt="immau14" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immau14&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="immau14" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=immau14&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="immau14" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=immau14&theme=dracula&margin-w=15&margin-h=15&column=4" alt="immau14" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immau14&show_icons=true&theme=dracula&text_color=ffffff&locale=en" alt="immau14" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=immau14&show_icons=true&theme=dracula&text_color=ffffff&locale=en&layout=compact" alt="immau14" /></p>
 </div>
