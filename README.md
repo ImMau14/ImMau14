@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio Rodríguez</h1>
 <div align="center">
   
-![Banner](https://images.hive.blog/DQmXYdegbJtu1GopTXsvFYK6NkogQqrZtXPU94y6934USSv/7demayode2025-ezgif.com-gif-maker.webp)
+![Banner](https://files.catbox.moe/c57ysf.webp)
 </div>
 
 <h3 align="center">I am a 20-year-old systems engineering student, passionate about programming, with other hobbies such as drawing, working out, and listening to music.</h3>
