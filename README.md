@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio Rodríguez</h1>
 <div align="center">
   
-![Banner](https://images.hive.blog/DQmXYdegbJtu1GopTXsvFYK6NkogQqrZtXPU94y6934USSv/7demayode2025-ezgif.com-gif-maker.webp)
+![Banner](https://cdn.discordapp.com/attachments/697811476362035251/1371894634372136960/7demayode2025-ezgif.com-gif-maker.webp?ex=6824cbf1&is=68237a71&hm=3e9f0f74141724f14644cd6cd4c9fdeb0df2aec2ba454e9979da141ca1b495b0&)
 </div>
 
 <h3 align="center">I am a 20-year-old systems engineering student, passionate about programming, with other hobbies such as drawing, working out, and listening to music.</h3>
