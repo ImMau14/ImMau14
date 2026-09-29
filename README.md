@@ -4,8 +4,7 @@
 ![Banner](https://files.catbox.moe/c57ysf.webp)
 </div>
 
-<h3 align="center">I am a 20-year-old systems engineering student, passionate about programming, with other hobbies such as drawing, working out, and listening to music.</h3>
-<h3 align="center">I hope to become a great Fullstack Developer</h3>
+<h3 align="center">I am a 21-year-old systems engineering student, passionate about programming, with other hobbies such as drawing, working out, and listening to music.</h3>
 
 ---
 
